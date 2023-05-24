@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "TROLLv2",
+        "name": "TROKL",
+        "uuid": "253f993a-f7db-11ed-b67e-0242ac120010",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 40 ]
+    },
+    "modules": [
+        {
+            "description": "TROLL",
+            "type": "resources",
+            "uuid": "30cf1e38-f7db-11ed-b67e-0242ac120010",
+            "version": [0, 0, 1]
+        }
+    ]
+}
